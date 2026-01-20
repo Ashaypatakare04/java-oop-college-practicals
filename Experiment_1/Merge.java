@@ -1,8 +1,8 @@
 public class Merge {
     public static void main(String[] args) {
 
-        int arr1[] = {4, 3, 2, 1, 5};
-        int arr2[] = {8, 7, 6, 10, 9};
+        int arr1[] = {1,2,3,4,5};
+        int arr2[] = {6,7,8,9, 10};
 
         // create new array
         int arr3[] = new int[arr1.length + arr2.length];
@@ -24,3 +24,4 @@ public class Merge {
         }
     }
 }
+
