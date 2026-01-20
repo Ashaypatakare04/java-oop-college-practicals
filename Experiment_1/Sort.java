@@ -5,7 +5,7 @@ class Sort {
     {
 
         // Custom input array
-        int arr[] = { 4, 3, 2, 1 };
+        int arr[] = { 4, 3, 2, 1 , 5, 8, 7, 6 , 10, 9 };
 
         // Outer loop
         for (int i = 0; i < arr.length; i++) {
@@ -30,3 +30,4 @@ class Sort {
     }
 
 }
+
