@@ -1,4 +1,4 @@
-class GFG {
+class Sort {
 
     // Main driver method
     public static void main(String[] args)
@@ -28,4 +28,5 @@ class GFG {
             System.out.print(arr[i] + " ");
         }
     }
+
 }
