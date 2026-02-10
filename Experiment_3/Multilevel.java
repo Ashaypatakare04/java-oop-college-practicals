@@ -23,7 +23,6 @@ class Result extends Test {
     Result(int roll_no, double sub1, double sub2) {
         super(roll_no, sub1, sub2);
     }
-    
     void displayResult() {
         double average = (sub1 + sub2) / 2;
         System.out.println("Roll No: " + roll_no);
@@ -37,3 +36,4 @@ class Result extends Test {
         r.displayResult();
     }
 }
+
